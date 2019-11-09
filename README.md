@@ -8,6 +8,7 @@ Setup require :
 	composer
 	Symfony
 	PhpMyAdmin
+	Postman
 
 Symfony is required for run a server for test the different request.
 Look at the documentation if you want more info. 
